@@ -1,4 +1,3 @@
-# coding-test-study
 
 ## ✏️ 스터디 방식
 
